@@ -17,8 +17,8 @@
 
 /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID       "MakerSpaceLeiden_deelnemers"
-#define WLAN_PASS       "M@@K1234"
+#define WLAN_SSID       "xxxxxxxxxxx"
+#define WLAN_PASS       "xxxxxxxxxxx"
 
 /************************* Adafruit.io Setup *********************************/
 
@@ -56,7 +56,7 @@ void setup() {
 
   Serial.println(F("MSL roomtemp via MQTT"));
   Serial.println(F("roomtemp_MSL_V1.ino"));
-  Serial.println(F("202200517 Freerk de Jong"));
+  Serial.println(F("20220517 Freerk de Jong"));
 
   // Connect to WiFi access point.
   Serial.println(); Serial.println();
